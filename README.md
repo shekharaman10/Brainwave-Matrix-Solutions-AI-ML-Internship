@@ -29,3 +29,31 @@ This project significantly improved my skills in Natural Language Processing (NL
 
 ## 📝 Conclusion
 The project showcases the potential of deep learning in addressing real-world challenges like fake news. Future enhancements may include integrating transformers for even better text understanding and generalization.
+
+2nd)🚀 Text-to-Image Generator using Stable Diffusion & Gradio
+
+🔍 Overview
+
+This project is a Text-to-Image Generator powered by Stable Diffusion (SSD-1B) and deployed using Gradio. It allows users to generate AI-generated images by providing text prompts.
+
+🛠️ Technology Stack
+
+Gradio: For building an interactive web interface.
+
+Stable Diffusion (SSD-1B): A Hugging Face model for generating images.
+
+PyTorch: For deep learning computations.
+
+🎨 Features
+
+Supports positive and negative prompts.
+
+Runs on GPU (CUDA) for fast image generation.
+
+Simple and interactive Gradio UI.
+
+📈 Future Enhancements
+
+Deploy as a web app using Streamlit or FastAPI.
+
+Add customization options for model parameters.
