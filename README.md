@@ -46,7 +46,8 @@ This project provides an interactive interface using **HTML, CSS, and JavaScript
 - **Stable Diffusion XL** via Hugging Face API  
 - **JavaScript (Fetch API, DOM Manipulation)**  
 - **HTML, CSS** (Modern UI with glowing neon effects)  
-- **Gradio (in Text_to_image_gradio.ipynb )**  
+- **Gradio (in Text_to_image_gradio.ipynb )**
+-  **Netlify.app** (for model deployment)
 
 ## 🎨 Features  
 ✅ **Text-to-Image Generation** using AI  
