@@ -30,7 +30,9 @@ This project significantly improved my skills in Natural Language Processing (NL
 ## 📝 Conclusion
 The project showcases the potential of deep learning in addressing real-world challenges like fake news. Future enhancements may include integrating transformers for even better text understanding and generalization.
 
-2nd)🚀 Text-to-Image Generator using Stable Diffusion & Gradio
+
+
+2nd)🚀Text-to-Image Generator using Stable Diffusion & Gradio
 
 🔍 Overview
 
