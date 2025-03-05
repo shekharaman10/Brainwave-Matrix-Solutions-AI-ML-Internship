@@ -30,27 +30,37 @@
 
 ---
 
-## 🎨 **Text-to-Image Generator with Stable Diffusion & Gradio**
+# 🎨 Text-to-Image Generator using Stable Diffusion  
 
-### 🔍 **Overview**
-- AI-powered **Text-to-Image Generator** using **Stable Diffusion (SSD-1B)**.
-- Deployed using **Gradio** for an interactive interface.
+An AI-powered Text-to-Image Generator utilizing **Stable Diffusion** via Hugging Face API.  
+This project provides an interactive interface using **HTML, CSS, and JavaScript**, making it simple and easy to generate AI-generated images from text prompts.  
 
-### 🛠️ **Technology Stack**
-- **Gradio**: For building an interactive web UI.
-- **Stable Diffusion (SSD-1B)**: Hugging Face model for image generation.
-- **PyTorch**: Backend for deep learning computations.
+![Demo](loading.gif)
 
-### 🎨 **Features**
-- Supports **positive & negative prompts** for controlled generation.
-- Runs on **GPU (CUDA)** for fast image generation.
-- Simple and interactive **Gradio UI**.
+## 🔍 Overview  
+- Uses **Stable Diffusion XL** from Hugging Face to generate images from text prompts.  
+- Built with **HTML, CSS, and JavaScript** for a sleek and minimal user experience.  
+- Integrated with an API to fetch AI-generated images dynamically.  
 
-### 📈 **Future Enhancements**
-- Deploy as a **web app** using **Streamlit or FastAPI**.
-- Add **custom model parameter options** for enhanced control.
+## 🛠️ Technology Stack  
+- **Stable Diffusion XL** via Hugging Face API  
+- **JavaScript (Fetch API, DOM Manipulation)**  
+- **HTML, CSS** (Modern UI with glowing neon effects)  
+- **Gradio (Future deployment plans)**  
+
+## 🎨 Features  
+✅ **Text-to-Image Generation** using AI  
+✅ **Interactive UI** with glowing neon aesthetics  
+✅ **Loading Animation** to enhance user experience  
+✅ **Error Handling** for API failures  
+✅ **Optimized for Mobile & Desktop Browsing**  
+
+## 🚀 How It Works  
+1. Enter a text prompt in the input field.  
+2. Click the **"Generate"** button.  
+3. The script sends the prompt to Hugging Face's Stable Diffusion API.  
+4. The generated image is displayed on the page.  
 
 ---
-
 
 
