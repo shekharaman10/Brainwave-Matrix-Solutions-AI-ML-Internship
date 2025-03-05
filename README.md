@@ -32,13 +32,13 @@ The project showcases the potential of deep learning in addressing real-world ch
 
 
 
-2nd)🚀Text-to-Image Generator using Stable Diffusion & Gradio
+#2nd)🚀Text-to-Image Generator using Stable Diffusion & Gradio
 
-🔍 Overview
+##🔍 Overview
 
 This project is a Text-to-Image Generator powered by Stable Diffusion (SSD-1B) and deployed using Gradio. It allows users to generate AI-generated images by providing text prompts.
 
-🛠️ Technology Stack
+##🛠️ Technology Stack
 
 Gradio: For building an interactive web interface.
 
@@ -46,7 +46,7 @@ Stable Diffusion (SSD-1B): A Hugging Face model for generating images.
 
 PyTorch: For deep learning computations.
 
-🎨 Features
+##🎨 Features
 
 Supports positive and negative prompts.
 
@@ -54,7 +54,7 @@ Runs on GPU (CUDA) for fast image generation.
 
 Simple and interactive Gradio UI.
 
-📈 Future Enhancements
+##📈 Future Enhancements
 
 Deploy as a web app using Streamlit or FastAPI.
 
