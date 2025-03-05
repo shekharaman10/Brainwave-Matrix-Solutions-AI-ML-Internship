@@ -46,7 +46,7 @@ This project provides an interactive interface using **HTML, CSS, and JavaScript
 - **Stable Diffusion XL** via Hugging Face API  
 - **JavaScript (Fetch API, DOM Manipulation)**  
 - **HTML, CSS** (Modern UI with glowing neon effects)  
-- **Gradio (Future deployment plans)**  
+- **Gradio (in Text_to_image_gradio.ipynb )**  
 
 ## 🎨 Features  
 ✅ **Text-to-Image Generation** using AI  
